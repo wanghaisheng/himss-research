@@ -1,0 +1,7 @@
+title: HIMSS 粉丝团
+description: HIMSS 粉丝团是一个汇总、分享与 HIMSS相关素材的网站.
+github:
+  is_project_page: false
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
